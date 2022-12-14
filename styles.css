@@ -21,7 +21,7 @@ body{
     justify-content: center;
     margin: 40px 0;
 }
-.otp{
+.otp-input{
     border-radius: 10px;
     font-size: 75px;
     height: 8rem;
